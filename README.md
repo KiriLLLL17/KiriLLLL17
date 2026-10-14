@@ -1,20 +1,61 @@
-# 👋 Hi, I'm Kirill
+# Hi there, I'm Kirill! 👋
 
-I'm a student interested in data science and analytics. I like using math and code to find patterns in data and turn them into clear answers.
+```python
+class DataScientist:
+    def __init__(self):
+        self.name = "Kirill Ryabkov"
+        self.role = "Data Science & Analytics Intern"
+        self.home_uni = "Ural Federal University (UrFU) — CS B.S. ('24–'28)"
+        self.current_location = "Beijing, China 🇨🇳"
+        self.exchange_prog = "Beijing Institute of Technology (BIT) — CS Exchange ('26–'27)"
+        self.languages = ["Russian (Native)", "English (B2)", "Chinese (Beginner 🇨🇳)"]
 
-## 🛠️ Skills
-**Languages:** Python, SQL
-**Strengths:** Math foundations, problem-solving
-**Tools:** Git, Jupyter Notebook
+    def current_focus(self):
+        return [
+            "Advanced Exploratory Data Analysis & Feature Engineering",
+            "Predictive Modeling & Applied Machine Learning",
+            "SQL Query Optimization & Data Pipeline Construction"
+        ]
+```
 
-## 🔭 What I'm working on
-- Solving SQL and Python problems
-- Building small data analysis projects
+---
 
-## 🌱 Currently learning
-- Data analysis with pandas and NumPy
-- Data visualization with Matplotlib
-- Statistics and probability
+## 💡 About Me
 
-## 🎯 Goals
-Grow toward a data analyst or data science internship.
+- 🎓 **Undergraduate Student** pursuing a B.S. in Computer Science at **UrFU** (2024 – 2028).
+- ✈️ **Exchange Student** currently studying Computer Science at **Beijing Institute of Technology (BIT)** for the Fall 2026 / Winter 2027 semester.
+- 🎯 **Career Goal:** Aspiring Data Scientist / Data Analyst focused on converting complex raw datasets into actionable insights and robust machine learning models.
+- 🗣️ **Languages:** Native **Russian**, upper-intermediate **English (B2)**, and actively learning **Mandarin Chinese**.
+
+---
+
+## 🛠 Tech Stack & Tools
+
+### **Data Science, Analytics & ML**
+`Python` `Pandas` `NumPy` `Scikit-Learn` `R (Base)` `Matplotlib` `Seaborn`
+
+### **Databases & Querying**
+`PostgreSQL` `SQL (CTEs, Window Functions, Joins)`
+
+### **Development & Environment**
+`Git` `GitHub` `PyCharm` `Jupyter Notebook` `Linux`
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=KiriLLLL17&show_icons=true&theme=nord&count_private=true" alt="Kirill's GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiriLLLL17&layout=compact&theme=nord&hide=html,css" alt="Top Languages" />
+</div>
+
+---
+
+## 📫 Connect with Me
+
+- ✉️ **Email:** kirillryabkov17@gmail.com
+- 💬 **Telegram:** @krrrr_17
+
+---
+<div align="center">
+  <i>"In God we trust. All others must bring data." — W. Edwards Deming</i>
+</div>
