@@ -39,14 +39,6 @@ class DataScientist:
 
 ### **Development & Environment**
 `Git` `GitHub` `PyCharm` `Jupyter Notebook` `Linux`
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=KiriLLLL17&show_icons=true&theme=nord&count_private=true" alt="Kirill's GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiriLLLL17&layout=compact&theme=nord&hide=html,css" alt="Top Languages" />
-</div>
 
 ---
 
