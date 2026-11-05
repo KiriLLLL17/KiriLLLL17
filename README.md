@@ -1,53 +1,29 @@
-# Hi there, I'm Kirill! 👋
+# Hi, I'm Kirill 👋
 
-```python
-class DataScientist:
-    def __init__(self):
-        self.name = "Kirill Ryabkov"
-        self.role = "Data Science & Analytics Intern"
-        self.home_uni = "Ural Federal University (UrFU) — CS B.S. ('24–'28)"
-        self.current_location = "Beijing, China 🇨🇳"
-        self.exchange_prog = "Beijing Institute of Technology (BIT) — CS Exchange ('26–'27)"
-        self.languages = ["Russian (Native)", "English (B2)", "Chinese (Beginner 🇨🇳)"]
+**Applied Informatics student · aspiring Data Scientist.** I like finding patterns in data and turning them into clear answers.
+🔎 **Open to Data Analyst / Data Science internships.**
 
-    def current_focus(self):
-        return [
-            "Advanced Exploratory Data Analysis & Feature Engineering",
-            "Predictive Modeling & Applied Machine Learning",
-            "SQL Query Optimization & Data Pipeline Construction"
-        ]
-```
+- 🎓 B.S. in Applied Informatics, **Ural Federal University (UrFU)**, 2024–2028
+- ✈️ Exchange student in Computer Science, **Beijing Institute of Technology (BIT)**, 2026–2027
+- 🗣️ Russian (native) · English (B2) · Chinese (beginner)
 
----
+## 🚀 Featured projects
 
-## 💡 About Me
+| Project | What it is | Stack |
+|---|---|---|
+| [GSE33258-liver-fibrosis](https://github.com/KiriLLLL17/GSE33258-liver-fibrosis) | Differential gene expression across liver fibrosis stages + protein interaction network and hub genes | R, limma, STRING, Cytoscape |
+| [airwrite](https://github.com/KiriLLLL17/airwrite) | How well MNIST-trained models recognise digits written in the air with a finger (team project). My part: dataset collection & labeling, model evaluation metrics | Python, PyTorch, MediaPipe, OpenCV |
+| [Wellness](https://github.com/KiriLLLL17/Wellness) | Mobile step counter based on the phone's accelerometer, with local history | TypeScript, React Native, Expo |
 
-- 🎓 **Undergraduate Student** pursuing a B.S. in Computer Science at **UrFU** (2024 – 2028).
-- ✈️ **Exchange Student** currently studying Computer Science at **Beijing Institute of Technology (BIT)** for the Fall 2026 / Winter 2027 semester.
-- 🎯 **Career Goal:** Aspiring Data Scientist / Data Analyst focused on converting complex raw datasets into actionable insights and robust machine learning models.
-- 🗣️ **Languages:** Native **Russian**, upper-intermediate **English (B2)**, and actively learning **Mandarin Chinese**.
+## 🛠 Skills
+
+**Data & ML:** Python (pandas, NumPy, Matplotlib, Seaborn, scikit-learn) · R (limma, ggplot2)
+**Databases:** SQL, PostgreSQL — joins, CTEs, window functions
+**Tools:** Git, Jupyter Notebook, Google Colab, PyCharm, Linux
+
+## 📫 Contact
+
+✉️ kirillryabkov17@gmail.com · 💬 Telegram [@krrrr_17](https://t.me/krrrr_17)
 
 ---
-
-## 🛠 Tech Stack & Tools
-
-### **Data Science, Analytics & ML**
-`Python` `Pandas` `NumPy` `Scikit-Learn` `R (Base)` `Matplotlib` `Seaborn`
-
-### **Databases & Querying**
-`PostgreSQL` `SQL (CTEs, Window Functions, Joins)`
-
-### **Development & Environment**
-`Git` `GitHub` `PyCharm` `Jupyter Notebook` `Linux`
-
----
-
-## 📫 Connect with Me
-
-- ✉️ **Email:** kirillryabkov17@gmail.com
-- 💬 **Telegram:** @krrrr_17
-
----
-<div align="center">
-  <i>"In God we trust. All others must bring data." — W. Edwards Deming</i>
-</div>
+<div align="center"><i>"In God we trust. All others must bring data." — W. Edwards Deming</i></div>
