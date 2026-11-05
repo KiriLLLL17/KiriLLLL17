@@ -1,11 +1,12 @@
 # Hi, I'm Kirill 👋
 
-**Applied Informatics student · aspiring Data Scientist.** I like finding patterns in data and turning them into clear answers.
+**Applied Informatics student and aspiring Data Scientist.** I like finding patterns in data and turning them into clear answers.
+
 🔎 **Open to Data Analyst / Data Science internships.**
 
 - 🎓 B.S. in Applied Informatics, **Ural Federal University (UrFU)**, 2024–2028
 - ✈️ Exchange student in Computer Science, **Beijing Institute of Technology (BIT)**, 2026–2027
-- 🗣️ Russian (native) · English (B2) · Chinese (beginner)
+- 🗣️ Russian (native), English (B2), Chinese (beginner)
 
 ## 🚀 Featured projects
 
@@ -17,13 +18,14 @@
 
 ## 🛠 Skills
 
-**Data & ML:** Python (pandas, NumPy, Matplotlib, Seaborn, scikit-learn) · R (limma, ggplot2)
-**Databases:** SQL, PostgreSQL — joins, CTEs, window functions
-**Tools:** Git, Jupyter Notebook, Google Colab, PyCharm, Linux
+- **Data & ML:** Python (pandas, NumPy, Matplotlib, Seaborn, scikit-learn), R (limma, ggplot2)
+- **Databases:** SQL, PostgreSQL (joins, CTEs, window functions)
+- **Tools:** Git, Jupyter Notebook, Google Colab, PyCharm, Linux
 
 ## 📫 Contact
 
-✉️ kirillryabkov17@gmail.com · 💬 Telegram [@krrrr_17](https://t.me/krrrr_17)
+- ✉️ Email: kirillryabkov17@gmail.com
+- 💬 Telegram: [@krrrr_17](https://t.me/krrrr_17)
 
 ---
 <div align="center"><i>"In God we trust. All others must bring data." — W. Edwards Deming</i></div>
